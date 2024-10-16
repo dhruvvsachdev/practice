@@ -1,0 +1,32 @@
+.recipeCard {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  font-family: sans-serif;
+}
+
+.recipeName {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.recipeImage {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.recipeDetails {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.recipeInstructions {
+  padding: 0px;
+  border-radius: 5px;
+  color: #adaab0;
+}
