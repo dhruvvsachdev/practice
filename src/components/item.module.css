@@ -1,0 +1,16 @@
+.itemImage {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  margin-right: 80px;
+  margin-top: 10px;
+}
+
+.itemContainer {
+  display: flex;
+  padding: 10px;
+  margin-top: 50px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
